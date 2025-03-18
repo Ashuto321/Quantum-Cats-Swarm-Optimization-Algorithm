@@ -1,0 +1,13 @@
+Qunatum Cat Swarm Optimization Algorithm(QCSO)
+In this QCSOA we are going to use Quantum Mechanics to optimize the Algorithm called QCSOA.
+
+How Problem Movies
+
+1.Define the Problem
+2.Initialize the cat Swarm
+3.Update the cat position
+4.Evaluate the objective function for each cat
+5.Update the global best position
+6.Repeat steps 3-5 until a terminate criterion is met
+
+This problem combines cats position with Quantum Mechanics to make higher accuracy
